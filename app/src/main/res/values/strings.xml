@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ANC Health Care Test</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="continues">Continue</string>
+    <string name="need_help">Need help?</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Orders</string>
+    <string name="title_notifications">Favourite</string>
+    <string name="title_user">User</string>
+    <string name="order_now">Order Now</string>
+    <string name="reviews">Reviews</string>
+    <string name="abc">4.33</string>
+    <string name="all_products">All Products</string>
+</resources>
